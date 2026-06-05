@@ -1,0 +1,11 @@
+[package]
+name = "divviup_bench_clients"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+janus_client = "=0.7.28"
+janus_messages = "=0.7.28"
+prio = "0.16"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "sync"] }
+url = "2"

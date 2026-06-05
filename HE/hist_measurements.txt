@@ -1,0 +1,10 @@
+client_1: 21
+client_2: 7
+client_3: 12
+client_4: 12
+client_5: 10
+client_6: 10
+client_7: 17
+client_8: 18
+client_9: 15
+client_10: 22
